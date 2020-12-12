@@ -130,7 +130,7 @@ For this tutorial, we are going to make the player wave hello.
 
         The Key Binding is which button will activate the ability. In this case, _Ability Feet_ is the ++shift++ key on keyboards.
 
-    2. Still in the **Properties** window and right beneath the Key Binding, change the **Animation** property to `unarmed_wave`.
+    2. Still in the **Properties** window and right beneath the Action Binding, change the **Animation** property to `unarmed_wave`.
 
         ![Ability Properties Panel](../img/EditorManual/Abilities/AbilityPropertiesChange.png "Ability Properties Panel"){: .center loading="lazy" }
 
